@@ -3,7 +3,7 @@
 **`Desenvolvedor Mainframe`**
 
 👋 Olá! Meu nome é Danilo Castro Soares, tenho 28 anos e sou Desenvolvedor Mainframe no Banco do Brasil.\
-🎓 Sou graduado em Redes de Computadores pelo Instituto Federal do Ceará (IFCE), com pós-graduação em Desenvolvimento Mainframe e Cloud Computing pela Faculdade Anhanguera.\
+🎓 Sou graduado em Redes de Computadores pelo Instituto Federal do Ceará (IFCE), com pós-graduação em Desenvolvimento Back-End e Cloud Computing pela Faculdade Anhanguera.\
 💻 Sou apaixonado por tecnologia e motivado pelos desafios de criar soluções inteligentes e eficientes no desenvolvimento de sistemas.\
 🚀 Aqui compartilho projetos, estudos e experimentos que refletem meu interesse no desenvolvimento de sistemas.
 
